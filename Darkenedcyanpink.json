@@ -4,21 +4,21 @@
   "authors": [{"name": "Pookie"}],
   "semanticColors": {
     "ANDROID_NAVIGATION_SCRIM_BACKGROUND": ["#0E0E0F"],
-    "ANDROID_RIPPLE": ["#00FFF328"],              // Neon Cyan transparent
-    "BACKGROUND_ACCENT": ["#00FFF3"],             // Neon Cyan
-    "BACKGROUND_MODIFIER_ACCENT": ["#FF00FF12"],  // Neon Pink transparent
+    "ANDROID_RIPPLE": ["#00FFF328"],
+    "BACKGROUND_ACCENT": ["#00FFF3"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#FF00FF12"],
     "BACKGROUND_PRIMARY": ["#09090A"],
     "BACKGROUND_SECONDARY": ["#0f0f10"],
-    "BACKGROUND_MENTIONED": ["#00FFF315"],        // Cyan leicht transparent
+    "BACKGROUND_MENTIONED": ["#00FFF315"],
     "BG_BASE_TERTIARY": ["#040405"],
     "BG_BASE_PRIMARY": ["#09090A"],
     "BG_BASE_SECONDARY": ["#09090A"],
-    "BG_BRAND": ["#FF00FF95"],                     // Pink transparent
+    "BG_BRAND": ["#FF00FF95"],
     "BG_SURFACE_RAISED": ["#0E0E0F"],
     "BG_SURFACE_OVERLAY_TMP": ["#0B0B0C"],
     "CARD_PRIMARY_BG": ["#0E0E0F"],
     "CARD_SECONDARY_BG": ["#0E0E0F"],
-    "CHANNEL_ICON": ["#00FFF365"],                  // Cyan etwas transparenter
+    "CHANNEL_ICON": ["#00FFF365"],
     "EMBED_BACKGROUND": ["#111011"],
     "EMBED_BACKGROUND_ALTERNATE": ["#111011"],
     "INTERACTIVE_ACTIVE": ["#00FFF3"],
@@ -36,7 +36,7 @@
     "TEXT_PRIMARY": ["#dbdee1"],
     "TEXT_SECONDARY": ["#b5bac1"],
     "THREAD_CHANNEL_SPINE": ["#00FFF3"],
-    "BACKGROUND_SECONDARY_ALT": ["#004D4D"],       // Dunkles Cyan
+    "BACKGROUND_SECONDARY_ALT": ["#004D4D"],
     "PREMIUM_NITRO_PINK_TEXT": ["#FF00FF"],
     "TEXT_MUTED": ["#818491"],
     "TEXT_LINK": ["#FF00FF"],
